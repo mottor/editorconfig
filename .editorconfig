@@ -2,6 +2,11 @@
 # automatically use the code style as defined in this file
 # see https://editorconfig.org/
 
+# !!!!!!!!!!!!!!!!!
+# контент этого файла единый на все наши репозитории
+# находится здесь ----> https://github.com/mottor/editorconfig
+# !!!!!!!!!!!!!!!!!
+
 root = true
 
 [*]
